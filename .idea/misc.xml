@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Spring-boot-insurance-management-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/IMS(Insurance-Management-Portal)/pom.xml" />
       </list>
     </option>
   </component>
