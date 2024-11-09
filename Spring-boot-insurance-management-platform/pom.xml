@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lic</groupId>
-	<artifactId>Spring-boot-insurance-management-platform</artifactId>
+	<artifactId>Insurance-Managing-Portal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spring-boot-insurance-management-platform</name>
 	<description>Demo project for Spring Boot</description>
