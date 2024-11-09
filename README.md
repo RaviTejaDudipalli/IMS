@@ -3,10 +3,14 @@ Here I'm uploading insurance management project this is real time project which 
 
 Project Name: Insurance Management Platform
 
-Language Used: Core-Java, Jdbc, Spring-Data-Jpa, Sql, with spring boot framework.
+Languages Used: Core-Java, Jdbc, Spring-Data-Jpa, Sql, with spring boot framework.
+
 Database:MySQL with mysql-workbench-application
-Teasting-Tool: Post-Man-API
-IDE-Tool:STS(spring-tool-suite)
+
+Testing-Tool: Post-Man-API
+
+IDE-Tool:(IntelliJ)
+
 Repository:Github
 
 Description:In this project I have created three classes as mentioned Claim,Client,InsurancePolicy.
