@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Boot-Insurance-management-platform-mini-project-main.iml" filepath="$PROJECT_DIR$/.idea/Spring-Boot-Insurance-management-platform-mini-project-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IMS-Insurance-Managemnt-Portal.iml" filepath="$PROJECT_DIR$/.idea/IMS-Insurance-Managemnt-Portal.iml" />
     </modules>
   </component>
 </project>
