@@ -1,4 +1,4 @@
-# Spring-boot-insurance-management-platform
+# IMS(Insurance-Management-Portal)
 Here I'm uploading insurance management project this is real time project which is based on policy.
 
 Project Name: Insurance Management Platform
@@ -7,13 +7,13 @@ Languages Used: Core-Java, Jdbc, Spring-Data-Jpa, Sql, with spring boot framewor
 
 Database:MySQL with mysql-workbench-application
 
-Testing-Tool: Post-Man-API
+Testing-Tool: PostMan-API
 
-IDE-Tool:(IntelliJ)
+IDE-Tool: IntelliJ
 
-Repository:Github
+Repository: Github
 
-Description:In this project I have created three classes as mentioned Claim,Client,InsurancePolicy.
+Description:In this project I have created three classes as mentioned Claim, Client, InsurancePolicy.
 There is a mapping between (InsurancePolicy to client) and (InsurancePolicy to claim)
 
 I have created all the controller for those three classes now you can find the controller url below.
